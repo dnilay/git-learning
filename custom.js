@@ -1,5 +1,5 @@
 "use strict";
-
+//this is custom.js file
 class Vehicle
 {
 	constructor(x, y)
